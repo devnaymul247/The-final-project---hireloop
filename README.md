@@ -1,3 +1,6 @@
+## Project Name:
+Final project - Hireloop
+
 ## Packages installed: 
 1. npx create-next-app@latest my-app
 2. npm i @heroui/styles @heroui/react
